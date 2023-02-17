@@ -1,6 +1,6 @@
 # Scroll Windows Virtual Desktops
 
-This tool scrolls through your virtual desktops.
+This tool scrolls through your virtual desktops. See https://medium.com/p/cbb659435849 for more details.
 
 ## Install requirements
 
