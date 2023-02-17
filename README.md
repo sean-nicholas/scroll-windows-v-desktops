@@ -35,7 +35,3 @@ If you don't want to see a window when you open the exe add the following flags 
 - Every time you scroll your mouse position is printed. Use those values to determine your scroll area and put those coordinates into `config.json`
 - Test if everything works
 - Set `printPosition` to `false`
-
-```
-
-```
